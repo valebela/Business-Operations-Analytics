@@ -1,0 +1,501 @@
+Customer_ID,Customer_Name,Region,Customer_Segment,Industry
+C0001,Mora PLC,West,Small Business,Finance
+C0002,"Brown, Kim and Vaughn",West,Corporate,Healthcare
+C0003,Stein-Adams,South,Corporate,Media
+C0004,Douglas-Delgado,West,Small Business,Finance
+C0005,"Phillips, Lewis and Weaver",South,Small Business,Retail
+C0006,Anderson and Sons,Northeast,Consumer,Retail
+C0007,Guzman Group,West,Corporate,Media
+C0008,"Thompson, Terrell and Cline",South,Consumer,Media
+C0009,Walker-Dean,Midwest,Consumer,Education
+C0010,"Allison, James and Boyd",Northeast,Consumer,Technology
+C0011,Roy Group,South,Small Business,Media
+C0012,Morgan-Ewing,Northeast,Consumer,Retail
+C0013,Baldwin LLC,Northeast,Small Business,Finance
+C0014,Walker Ltd,Northeast,Consumer,Technology
+C0015,Cox-Gibson,West,Corporate,Finance
+C0016,"Myers, Kelley and Green",South,Corporate,Technology
+C0017,Blake-Wilson,Northeast,Small Business,Technology
+C0018,Kelly-Jones,Midwest,Small Business,Finance
+C0019,Bell-Rodriguez,South,Consumer,Media
+C0020,Wright Ltd,West,Small Business,Education
+C0021,Santiago LLC,West,Small Business,Finance
+C0022,"Andrews, Wright and Brock",Midwest,Corporate,Education
+C0023,Potter-Phillips,Northeast,Consumer,Education
+C0024,Kennedy-Horn,West,Consumer,Technology
+C0025,Russell LLC,West,Small Business,Healthcare
+C0026,Juarez-Brady,South,Consumer,Healthcare
+C0027,Ellis Ltd,West,Consumer,Media
+C0028,"Roy, Keller and Smith",South,Small Business,Technology
+C0029,Greene-Smith,Northeast,Consumer,Healthcare
+C0030,Schwartz Inc,Midwest,Corporate,Finance
+C0031,Wilson-Elliott,Northeast,Consumer,Technology
+C0032,Stewart-Garza,West,Small Business,Retail
+C0033,Walker-Mcdonald,West,Consumer,Technology
+C0034,Boyd Inc,Midwest,Small Business,Retail
+C0035,Johnson-Simon,West,Small Business,Technology
+C0036,Nichols-Hall,South,Consumer,Education
+C0037,Nolan-Bradshaw,Midwest,Small Business,Retail
+C0038,"Baker, Haynes and Harding",West,Corporate,Retail
+C0039,"Bell, King and Mosley",South,Corporate,Retail
+C0040,Austin-Bell,West,Consumer,Healthcare
+C0041,Parks Ltd,Northeast,Consumer,Finance
+C0042,Hale Group,West,Consumer,Education
+C0043,Jackson-Burke,South,Consumer,Healthcare
+C0044,Griffith-Andrade,Midwest,Corporate,Media
+C0045,Santos-Edwards,West,Corporate,Education
+C0046,Fuller-Bradley,Midwest,Small Business,Media
+C0047,"Ramirez, Frost and Atkins",Midwest,Small Business,Education
+C0048,"Chavez, Rodriguez and Sullivan",South,Consumer,Education
+C0049,"Butler, Meyer and Guzman",West,Corporate,Retail
+C0050,Heath-Johnson,West,Corporate,Finance
+C0051,Gardner-Richards,West,Corporate,Technology
+C0052,"Pearson, Potter and Frye",South,Consumer,Education
+C0053,Graham-Smith,Midwest,Small Business,Education
+C0054,"Krueger, Parker and Williamson",Midwest,Consumer,Technology
+C0055,Brown and Sons,Northeast,Consumer,Education
+C0056,Booth PLC,West,Consumer,Technology
+C0057,Holland and Sons,Northeast,Small Business,Healthcare
+C0058,"Thompson, Carter and Mcintosh",Northeast,Consumer,Education
+C0059,Zavala-Garcia,Midwest,Consumer,Technology
+C0060,Moore-Dillon,South,Small Business,Finance
+C0061,"Martinez, Rios and Haney",West,Corporate,Healthcare
+C0062,Roberts-Robinson,Northeast,Consumer,Technology
+C0063,Meyers LLC,South,Small Business,Education
+C0064,"Sparks, Warren and Dean",Northeast,Consumer,Finance
+C0065,Summers and Sons,Northeast,Corporate,Retail
+C0066,Palmer-Fernandez,Northeast,Corporate,Healthcare
+C0067,Medina-Cochran,South,Consumer,Healthcare
+C0068,"Martinez, Fox and Rodgers",West,Small Business,Education
+C0069,Taylor-Meyers,Midwest,Consumer,Media
+C0070,Gonzalez Group,Midwest,Consumer,Finance
+C0071,Jones-Phillips,South,Small Business,Finance
+C0072,Hamilton-Brown,Midwest,Small Business,Healthcare
+C0073,Collins-Brown,West,Small Business,Healthcare
+C0074,Sanford-Daniels,West,Consumer,Technology
+C0075,King Group,Midwest,Corporate,Technology
+C0076,"Thomas, Arnold and Gilbert",West,Consumer,Retail
+C0077,Glenn LLC,Northeast,Corporate,Education
+C0078,Evans Ltd,West,Corporate,Media
+C0079,"White, Walls and Myers",South,Small Business,Technology
+C0080,Collins PLC,Northeast,Consumer,Education
+C0081,Garcia Inc,South,Corporate,Media
+C0082,Davenport-Webb,West,Small Business,Retail
+C0083,Williams-Cooper,South,Consumer,Finance
+C0084,Tran PLC,West,Consumer,Finance
+C0085,Barnett-Green,West,Corporate,Technology
+C0086,Watkins Inc,South,Corporate,Media
+C0087,Smith LLC,South,Consumer,Media
+C0088,"Duncan, Diaz and Hensley",Northeast,Corporate,Finance
+C0089,Goodman-Holt,Midwest,Consumer,Retail
+C0090,Thompson-Cunningham,South,Small Business,Technology
+C0091,Boone-Leonard,South,Consumer,Healthcare
+C0092,"Alexander, Schroeder and Johnson",West,Consumer,Education
+C0093,"Phillips, Williams and Thompson",West,Consumer,Healthcare
+C0094,Bradley Ltd,West,Small Business,Healthcare
+C0095,Williams LLC,Northeast,Consumer,Media
+C0096,Ray-Wilson,West,Small Business,Finance
+C0097,Gonzalez Ltd,West,Corporate,Healthcare
+C0098,Walters Group,Midwest,Small Business,Retail
+C0099,Huff Group,South,Consumer,Media
+C0100,"Schwartz, Hahn and Moreno",Northeast,Consumer,Finance
+C0101,Woodard-Giles,Northeast,Small Business,Education
+C0102,Torres Ltd,Northeast,Consumer,Media
+C0103,"Cameron, Gross and Fisher",West,Small Business,Healthcare
+C0104,Garcia PLC,West,Small Business,Retail
+C0105,"Gonzalez, Richardson and Owen",West,Consumer,Media
+C0106,"Stevens, Weaver and Estes",West,Small Business,Media
+C0107,Pennington and Sons,Northeast,Small Business,Technology
+C0108,"Singh, Smith and Blackwell",South,Small Business,Technology
+C0109,Harper-Taylor,South,Consumer,Education
+C0110,Vance Group,South,Small Business,Healthcare
+C0111,"Christian, Bell and Valenzuela",West,Corporate,Retail
+C0112,Carrillo-Daniels,Midwest,Consumer,Retail
+C0113,Garcia LLC,Northeast,Consumer,Technology
+C0114,"Lambert, Dickson and Garza",West,Consumer,Technology
+C0115,Smith LLC,West,Small Business,Media
+C0116,Johnson and Sons,Northeast,Small Business,Retail
+C0117,Brown and Sons,West,Corporate,Healthcare
+C0118,"Gilbert, Griffith and Johnson",Midwest,Corporate,Technology
+C0119,Miller Group,Midwest,Small Business,Finance
+C0120,Washington-Orr,South,Corporate,Healthcare
+C0121,"Quinn, Moore and Ortega",Northeast,Corporate,Education
+C0122,Mcguire PLC,South,Corporate,Technology
+C0123,Montgomery-Ferguson,Midwest,Consumer,Technology
+C0124,Tyler-Woods,Northeast,Consumer,Healthcare
+C0125,Jordan-Vega,South,Corporate,Technology
+C0126,Duncan-Murray,Midwest,Consumer,Media
+C0127,Wheeler Inc,Northeast,Small Business,Healthcare
+C0128,"Jenkins, Jackson and Smith",Midwest,Small Business,Education
+C0129,"Jackson, Ferguson and Love",Northeast,Consumer,Media
+C0130,Hernandez-Reid,Midwest,Consumer,Media
+C0131,Miller-Torres,South,Corporate,Education
+C0132,Ford-Smith,West,Consumer,Finance
+C0133,Day-West,Midwest,Consumer,Media
+C0134,Edwards-Long,West,Small Business,Media
+C0135,"Garcia, Duarte and Keith",Northeast,Corporate,Finance
+C0136,Medina and Sons,South,Consumer,Retail
+C0137,Arnold-Torres,Northeast,Corporate,Finance
+C0138,"Hart, Ryan and Huff",Midwest,Corporate,Technology
+C0139,"Roy, Nichols and Holloway",West,Small Business,Healthcare
+C0140,"Holmes, Campbell and Torres",Northeast,Corporate,Retail
+C0141,"Foster, Burns and Johnson",South,Small Business,Education
+C0142,Jordan-Lara,South,Corporate,Finance
+C0143,Fox PLC,West,Corporate,Healthcare
+C0144,"Lee, Mason and Myers",South,Small Business,Media
+C0145,Castillo-Torres,Midwest,Consumer,Finance
+C0146,Martinez-Fox,South,Consumer,Healthcare
+C0147,Cruz-Kim,Midwest,Consumer,Finance
+C0148,Gregory PLC,South,Small Business,Finance
+C0149,Ortiz-Mccann,Northeast,Small Business,Healthcare
+C0150,"Reyes, Martin and Pham",Midwest,Consumer,Finance
+C0151,Ferguson Ltd,South,Corporate,Finance
+C0152,Kelly-Johnson,West,Small Business,Education
+C0153,"Anthony, Mcintyre and Mills",Northeast,Consumer,Retail
+C0154,"Lopez, Gonzales and Tyler",West,Consumer,Finance
+C0155,Clark-Lopez,West,Consumer,Finance
+C0156,"Edwards, Herrera and Hartman",Northeast,Consumer,Retail
+C0157,"Green, Smith and Benjamin",Midwest,Corporate,Education
+C0158,"Hutchinson, Carpenter and Moore",Midwest,Small Business,Media
+C0159,Chandler-Baker,Northeast,Corporate,Healthcare
+C0160,Hayes-Kelley,South,Small Business,Technology
+C0161,Lopez-Edwards,South,Corporate,Healthcare
+C0162,Wilson-Carr,South,Small Business,Education
+C0163,King Group,Midwest,Consumer,Technology
+C0164,Lopez Group,Northeast,Consumer,Technology
+C0165,"Nicholson, Wang and Ross",Midwest,Small Business,Finance
+C0166,Gonzalez-Graham,Midwest,Consumer,Finance
+C0167,"Mitchell, Curtis and Byrd",West,Corporate,Retail
+C0168,Washington Ltd,Midwest,Corporate,Finance
+C0169,"Brown, Hernandez and Buchanan",Midwest,Consumer,Media
+C0170,Morgan PLC,Northeast,Consumer,Finance
+C0171,"Logan, Bond and Roman",Northeast,Small Business,Retail
+C0172,Gomez Ltd,South,Corporate,Technology
+C0173,Gonzalez Group,West,Corporate,Retail
+C0174,Osborn and Sons,West,Corporate,Healthcare
+C0175,Schultz Inc,Northeast,Consumer,Media
+C0176,Blair-Green,Northeast,Corporate,Healthcare
+C0177,Logan-Rowe,West,Consumer,Education
+C0178,Aguilar LLC,South,Small Business,Technology
+C0179,"Hansen, Brooks and Lawson",Northeast,Consumer,Healthcare
+C0180,Potter-Harris,South,Consumer,Healthcare
+C0181,Garrison Ltd,South,Small Business,Retail
+C0182,Brown-Johnson,Northeast,Corporate,Technology
+C0183,Douglas LLC,Northeast,Consumer,Media
+C0184,"Castillo, Page and Middleton",South,Consumer,Healthcare
+C0185,Davis PLC,Northeast,Consumer,Finance
+C0186,Brewer-Harris,South,Consumer,Education
+C0187,"Cooper, Clark and Clark",South,Consumer,Media
+C0188,"Price, Davis and Cox",South,Small Business,Healthcare
+C0189,Dean LLC,South,Corporate,Retail
+C0190,"Owen, Williams and Frederick",Northeast,Small Business,Technology
+C0191,Reed-Newton,West,Consumer,Healthcare
+C0192,"Bernard, Castillo and Proctor",West,Consumer,Retail
+C0193,Jimenez Group,South,Small Business,Healthcare
+C0194,"Burton, Lee and Cochran",Midwest,Small Business,Media
+C0195,Cannon-Berg,Midwest,Consumer,Retail
+C0196,Mullins and Sons,South,Small Business,Healthcare
+C0197,Patterson-Medina,Northeast,Corporate,Education
+C0198,Ward-Fischer,Midwest,Consumer,Finance
+C0199,Mueller Inc,Midwest,Small Business,Retail
+C0200,"Johns, Walker and Smith",South,Consumer,Healthcare
+C0201,Adams LLC,Northeast,Small Business,Education
+C0202,"Warren, Reid and Austin",South,Consumer,Finance
+C0203,Smith-Jones,West,Small Business,Technology
+C0204,Flores Group,Northeast,Consumer,Finance
+C0205,"Allen, Mitchell and Gibson",West,Consumer,Healthcare
+C0206,"Reynolds, Jackson and Baker",South,Corporate,Retail
+C0207,Davis Ltd,Midwest,Corporate,Healthcare
+C0208,Gonzalez-Schmidt,West,Small Business,Education
+C0209,Wells and Sons,West,Corporate,Education
+C0210,Taylor Group,South,Corporate,Education
+C0211,Medina PLC,West,Consumer,Media
+C0212,"Garcia, Anderson and Watson",Midwest,Corporate,Finance
+C0213,Steele-Johnston,Northeast,Consumer,Retail
+C0214,Acosta and Sons,South,Corporate,Finance
+C0215,"Bishop, Haas and Moore",South,Consumer,Education
+C0216,Smith-Caldwell,West,Consumer,Healthcare
+C0217,Hobbs-Gibbs,South,Consumer,Finance
+C0218,"Cortez, Carr and Landry",South,Consumer,Technology
+C0219,"Estrada, Collins and Glover",South,Corporate,Healthcare
+C0220,Ramsey-Luna,South,Small Business,Education
+C0221,Mitchell-Fry,South,Small Business,Media
+C0222,"Patrick, Potts and Conley",Northeast,Small Business,Media
+C0223,Anderson-Austin,Midwest,Consumer,Finance
+C0224,Anderson Ltd,Midwest,Consumer,Healthcare
+C0225,Carter-Martin,West,Small Business,Healthcare
+C0226,Waters Inc,Northeast,Corporate,Technology
+C0227,Smith PLC,Northeast,Corporate,Finance
+C0228,Parker Group,South,Corporate,Education
+C0229,Wright-Henry,Northeast,Consumer,Education
+C0230,"Freeman, Green and Brown",Midwest,Corporate,Education
+C0231,Brooks-May,West,Consumer,Technology
+C0232,"Murray, Shah and Roberts",South,Consumer,Education
+C0233,Fowler Group,Midwest,Corporate,Retail
+C0234,Wilson PLC,Midwest,Consumer,Healthcare
+C0235,"Hancock, Bennett and Hill",Midwest,Corporate,Healthcare
+C0236,Parks Inc,Midwest,Consumer,Healthcare
+C0237,Madden-Martin,South,Consumer,Healthcare
+C0238,"Wyatt, Williams and Ashley",Northeast,Consumer,Media
+C0239,Butler PLC,West,Small Business,Finance
+C0240,Mitchell-Smith,Midwest,Corporate,Finance
+C0241,Saunders-Jacobs,South,Corporate,Finance
+C0242,"Holt, Hernandez and Taylor",Midwest,Small Business,Finance
+C0243,Cervantes-Park,West,Consumer,Technology
+C0244,Mcmillan-Cochran,South,Corporate,Finance
+C0245,Hernandez PLC,South,Corporate,Retail
+C0246,"Graham, Edwards and Willis",Northeast,Consumer,Retail
+C0247,"May, Durham and Bowen",West,Corporate,Finance
+C0248,"Adams, Brown and Guzman",Northeast,Corporate,Retail
+C0249,Myers Ltd,Midwest,Small Business,Finance
+C0250,Huff-Curry,South,Corporate,Retail
+C0251,"Long, Austin and Fleming",Midwest,Consumer,Media
+C0252,Davidson LLC,Midwest,Corporate,Media
+C0253,James and Sons,Midwest,Corporate,Technology
+C0254,Foster-Brooks,South,Corporate,Media
+C0255,Cole-Mason,South,Corporate,Technology
+C0256,Gonzales-Dorsey,South,Corporate,Finance
+C0257,Wilson Group,South,Corporate,Media
+C0258,Mitchell PLC,Midwest,Corporate,Retail
+C0259,Molina Inc,South,Corporate,Media
+C0260,Carson LLC,Northeast,Consumer,Finance
+C0261,Davis and Sons,South,Consumer,Media
+C0262,Bell-Schmidt,Midwest,Small Business,Healthcare
+C0263,Lyons PLC,Midwest,Corporate,Retail
+C0264,"Walters, Meza and Wallace",South,Corporate,Healthcare
+C0265,Gonzalez-Gutierrez,Midwest,Small Business,Technology
+C0266,Barnett-Smith,South,Small Business,Finance
+C0267,Garner-Tate,South,Corporate,Education
+C0268,Guerrero-Graham,Midwest,Corporate,Media
+C0269,"Vaughan, Valdez and Baker",South,Consumer,Healthcare
+C0270,"Smith, Welch and Hall",South,Small Business,Healthcare
+C0271,"Matthews, Berry and Anderson",West,Small Business,Media
+C0272,Briggs LLC,South,Consumer,Retail
+C0273,Smith-Dominguez,Northeast,Consumer,Media
+C0274,Martin-Morgan,Midwest,Consumer,Technology
+C0275,"Smith, Harris and Wilson",Northeast,Corporate,Technology
+C0276,Kelly-Warner,Midwest,Consumer,Retail
+C0277,Haney LLC,West,Small Business,Education
+C0278,Ponce-Robinson,Northeast,Corporate,Finance
+C0279,Smith-Madden,West,Consumer,Finance
+C0280,Hernandez-Miller,Northeast,Corporate,Media
+C0281,Ortega PLC,Midwest,Corporate,Education
+C0282,Clark-Kim,Northeast,Corporate,Retail
+C0283,Townsend and Sons,South,Corporate,Finance
+C0284,Zuniga-Moore,Northeast,Corporate,Education
+C0285,Davis-Miranda,South,Corporate,Finance
+C0286,"Rangel, Lutz and Johnson",South,Small Business,Education
+C0287,Tanner PLC,Midwest,Consumer,Retail
+C0288,"Brooks, Burns and Sanchez",Northeast,Corporate,Technology
+C0289,"Mclaughlin, Logan and Solomon",Northeast,Corporate,Technology
+C0290,Sanchez Group,South,Consumer,Media
+C0291,Miller Ltd,Midwest,Consumer,Media
+C0292,Key-Pacheco,West,Consumer,Media
+C0293,"Wolf, Kennedy and Underwood",Midwest,Corporate,Retail
+C0294,"Morris, Jones and Mueller",Northeast,Corporate,Healthcare
+C0295,Willis-Gutierrez,Midwest,Consumer,Healthcare
+C0296,Kramer Group,West,Consumer,Retail
+C0297,"Blake, Johnson and Thompson",West,Corporate,Retail
+C0298,Riley-Richards,Northeast,Corporate,Education
+C0299,Hicks LLC,South,Corporate,Finance
+C0300,"Peck, Schultz and Williams",Northeast,Small Business,Technology
+C0301,"Baker, Ross and Sutton",Northeast,Small Business,Retail
+C0302,White-Fletcher,West,Small Business,Education
+C0303,Webb-Kidd,West,Small Business,Finance
+C0304,Trujillo Group,Midwest,Consumer,Finance
+C0305,Lewis-Hughes,Northeast,Consumer,Healthcare
+C0306,"Martinez, Trevino and Silva",South,Consumer,Retail
+C0307,Cooper-Ford,South,Consumer,Education
+C0308,Rojas Ltd,Northeast,Small Business,Healthcare
+C0309,"Jackson, Morton and Walker",West,Corporate,Education
+C0310,"Garza, Mcguire and Medina",Northeast,Consumer,Technology
+C0311,Bush Ltd,Midwest,Small Business,Healthcare
+C0312,Williams Group,West,Consumer,Education
+C0313,Moore-Parsons,Midwest,Small Business,Retail
+C0314,Long Inc,South,Consumer,Healthcare
+C0315,Ramirez Ltd,South,Corporate,Education
+C0316,Stokes-Blevins,Midwest,Small Business,Technology
+C0317,Le-Brown,South,Small Business,Education
+C0318,"Armstrong, Martin and Gates",Midwest,Consumer,Retail
+C0319,"Jones, Gray and Melendez",Midwest,Consumer,Education
+C0320,"Jones, Parker and Diaz",Northeast,Small Business,Retail
+C0321,"Newman, Carter and Morales",Midwest,Corporate,Retail
+C0322,"Chavez, Dyer and Washington",South,Corporate,Technology
+C0323,"Robinson, Bates and Owens",Midwest,Small Business,Healthcare
+C0324,Dawson-Fowler,South,Consumer,Retail
+C0325,Morales PLC,Northeast,Consumer,Technology
+C0326,"Atkins, Powell and Norman",West,Corporate,Finance
+C0327,"Gonzales, Butler and Wilkerson",South,Small Business,Finance
+C0328,Howard LLC,West,Corporate,Education
+C0329,Brady Ltd,South,Corporate,Retail
+C0330,Wade-Miller,Northeast,Consumer,Retail
+C0331,Cline Group,Midwest,Small Business,Education
+C0332,Watkins-Hanson,Midwest,Small Business,Education
+C0333,Bond and Sons,Northeast,Small Business,Retail
+C0334,Moreno-Greer,South,Small Business,Healthcare
+C0335,"Wilson, Wilson and Villanueva",Midwest,Small Business,Media
+C0336,Wang Group,South,Consumer,Education
+C0337,Ross PLC,West,Consumer,Education
+C0338,Mitchell Inc,Northeast,Small Business,Technology
+C0339,"White, Bell and Reed",Northeast,Corporate,Media
+C0340,Cook LLC,South,Small Business,Media
+C0341,Mitchell-Wilson,West,Consumer,Media
+C0342,Thompson Ltd,Northeast,Small Business,Healthcare
+C0343,"Wheeler, Cruz and Rogers",Northeast,Consumer,Technology
+C0344,Reed Inc,Midwest,Small Business,Technology
+C0345,Harris and Sons,South,Consumer,Technology
+C0346,"Carlson, Perez and Smith",Midwest,Consumer,Healthcare
+C0347,Lawson Ltd,Northeast,Corporate,Technology
+C0348,"Moran, Leach and Braun",Midwest,Consumer,Finance
+C0349,Ray-Bennett,Midwest,Corporate,Retail
+C0350,Farley-Williams,Northeast,Consumer,Media
+C0351,Taylor Group,South,Small Business,Education
+C0352,Meyers and Sons,South,Consumer,Education
+C0353,"Wade, Carpenter and Armstrong",South,Small Business,Technology
+C0354,Wilson-Hale,South,Consumer,Technology
+C0355,"Rowe, Brewer and Peterson",Midwest,Small Business,Finance
+C0356,"Harrison, Glenn and Brown",West,Small Business,Retail
+C0357,Mccoy Inc,Northeast,Corporate,Education
+C0358,Adams-Taylor,West,Consumer,Media
+C0359,"Anderson, Wilson and Foster",Midwest,Corporate,Media
+C0360,Smith and Sons,West,Corporate,Technology
+C0361,"Malone, Vazquez and Rasmussen",West,Small Business,Technology
+C0362,"Hernandez, Campbell and Pugh",South,Small Business,Technology
+C0363,Goodman-Strickland,West,Consumer,Media
+C0364,"Sullivan, Fisher and Johnson",Midwest,Consumer,Healthcare
+C0365,Nguyen-Li,South,Corporate,Retail
+C0366,"Mcbride, Butler and Braun",Midwest,Small Business,Technology
+C0367,Rogers-Hogan,South,Consumer,Technology
+C0368,Sullivan-Peterson,Midwest,Small Business,Healthcare
+C0369,Harris-Blackburn,South,Consumer,Healthcare
+C0370,Osborn-Poole,West,Corporate,Media
+C0371,Reid-Stein,Midwest,Corporate,Healthcare
+C0372,Griffin PLC,Midwest,Consumer,Healthcare
+C0373,Jarvis-Flores,Midwest,Small Business,Media
+C0374,Rogers Ltd,Midwest,Consumer,Media
+C0375,"Diaz, Jackson and Ho",Northeast,Small Business,Finance
+C0376,Olsen-Welch,West,Consumer,Healthcare
+C0377,Hill LLC,West,Corporate,Technology
+C0378,Rowe LLC,Northeast,Corporate,Healthcare
+C0379,Martin-Wheeler,Midwest,Consumer,Media
+C0380,Schmidt Inc,Midwest,Consumer,Media
+C0381,Wilson Group,South,Small Business,Media
+C0382,Richardson Ltd,Northeast,Consumer,Healthcare
+C0383,Lewis-Johnson,West,Small Business,Retail
+C0384,"Hurley, Johnson and Garrett",West,Small Business,Technology
+C0385,Fowler Inc,West,Small Business,Technology
+C0386,"Aguirre, Lambert and Mitchell",Northeast,Small Business,Healthcare
+C0387,Williams-Cohen,South,Corporate,Technology
+C0388,"Benson, Rose and Coleman",West,Small Business,Media
+C0389,Kelley Ltd,Northeast,Small Business,Retail
+C0390,Williams-Blackwell,West,Small Business,Technology
+C0391,"Kidd, Wyatt and Mcdonald",West,Corporate,Technology
+C0392,"Gibson, Andrade and Evans",South,Consumer,Healthcare
+C0393,"Smith, Harris and Mays",West,Corporate,Retail
+C0394,"Adams, Brown and Henry",South,Consumer,Media
+C0395,"Turner, Watkins and Cook",South,Corporate,Healthcare
+C0396,Martinez PLC,South,Small Business,Media
+C0397,Wilcox Inc,Northeast,Consumer,Retail
+C0398,"Black, Green and Hutchinson",South,Small Business,Technology
+C0399,Ward Group,South,Corporate,Media
+C0400,"Hartman, Smith and Carrillo",Northeast,Consumer,Healthcare
+C0401,Arellano Ltd,West,Small Business,Media
+C0402,"Haney, Parrish and Pham",Midwest,Consumer,Healthcare
+C0403,Thomas-Ray,Midwest,Consumer,Finance
+C0404,"Dominguez, Townsend and Kelly",South,Corporate,Retail
+C0405,Johnson Group,South,Consumer,Healthcare
+C0406,"Ware, Chen and Mora",Midwest,Consumer,Finance
+C0407,Ross and Sons,Northeast,Corporate,Media
+C0408,Reid-Mendez,South,Corporate,Technology
+C0409,Clark-Lara,Northeast,Corporate,Healthcare
+C0410,"Collins, King and Brown",Midwest,Consumer,Media
+C0411,Warren-Skinner,Northeast,Small Business,Finance
+C0412,"Haney, Lewis and Lopez",Midwest,Small Business,Media
+C0413,"Hull, Rodriguez and Mays",South,Consumer,Retail
+C0414,"Flores, Washington and Smith",South,Consumer,Finance
+C0415,"Berger, Espinoza and Higgins",South,Corporate,Technology
+C0416,Jennings Group,South,Consumer,Healthcare
+C0417,Molina Group,South,Small Business,Healthcare
+C0418,"James, Snyder and Rodriguez",South,Consumer,Technology
+C0419,Walker-Ruiz,Northeast,Corporate,Media
+C0420,Williams LLC,Northeast,Consumer,Healthcare
+C0421,Fischer-Johnson,Northeast,Corporate,Finance
+C0422,"Park, Wells and Rodriguez",South,Consumer,Education
+C0423,"Ward, Jordan and Wilson",South,Small Business,Education
+C0424,Montgomery LLC,Midwest,Consumer,Media
+C0425,Moreno-Ward,Midwest,Corporate,Retail
+C0426,Ball and Sons,South,Corporate,Finance
+C0427,Nash LLC,Midwest,Small Business,Technology
+C0428,Castro-Allen,West,Consumer,Media
+C0429,"Atkins, Farley and Edwards",South,Small Business,Healthcare
+C0430,"Pitts, Hoffman and Randall",Midwest,Small Business,Finance
+C0431,Wise Group,West,Consumer,Finance
+C0432,Sanchez-Peters,Northeast,Small Business,Healthcare
+C0433,Monroe-Reed,Northeast,Small Business,Media
+C0434,"Evans, Aguirre and Love",Midwest,Corporate,Technology
+C0435,"Torres, Oconnell and Bell",Midwest,Small Business,Media
+C0436,"Rubio, Lam and Smith",West,Consumer,Finance
+C0437,Contreras-Mcfarland,Midwest,Corporate,Retail
+C0438,Mcdonald LLC,Northeast,Consumer,Education
+C0439,Watson-Cohen,South,Consumer,Finance
+C0440,"Smith, Valdez and Dillon",West,Small Business,Education
+C0441,"Doyle, Snyder and Nguyen",South,Corporate,Finance
+C0442,Harrington Group,West,Corporate,Education
+C0443,Sanchez PLC,West,Small Business,Education
+C0444,Dudley Ltd,Northeast,Corporate,Finance
+C0445,Suarez Group,South,Small Business,Technology
+C0446,Rivera PLC,Midwest,Small Business,Education
+C0447,Robinson Inc,West,Consumer,Education
+C0448,Miller Inc,South,Small Business,Healthcare
+C0449,Johnson and Sons,Northeast,Corporate,Media
+C0450,Owens-Jones,Northeast,Small Business,Finance
+C0451,"White, Miller and Burns",South,Corporate,Finance
+C0452,"Small, Walker and Miller",Midwest,Consumer,Education
+C0453,Lang-Price,Northeast,Consumer,Healthcare
+C0454,"Henry, Scott and Church",Midwest,Consumer,Healthcare
+C0455,"Bolton, Rojas and Peterson",West,Small Business,Technology
+C0456,Daniels-Smith,South,Consumer,Healthcare
+C0457,Higgins PLC,South,Corporate,Education
+C0458,Houston and Sons,Northeast,Corporate,Media
+C0459,"Erickson, Chambers and Hamilton",West,Small Business,Education
+C0460,Olson-Rojas,West,Consumer,Healthcare
+C0461,Everett-Williams,South,Consumer,Education
+C0462,"Burns, Morris and Ball",Northeast,Small Business,Media
+C0463,Stark-Fuentes,South,Small Business,Technology
+C0464,Williams Group,Midwest,Corporate,Technology
+C0465,"Murphy, Ayala and Roth",Northeast,Corporate,Media
+C0466,Avila-Garcia,Northeast,Consumer,Education
+C0467,Reid Group,West,Small Business,Technology
+C0468,Petty-Bond,Midwest,Consumer,Retail
+C0469,Smith Ltd,West,Small Business,Retail
+C0470,Hunt-Jones,West,Small Business,Education
+C0471,Hernandez Inc,South,Consumer,Education
+C0472,"Bennett, Harris and Garcia",Midwest,Corporate,Retail
+C0473,Wagner and Sons,South,Consumer,Technology
+C0474,Williams-Juarez,West,Consumer,Education
+C0475,Alvarado-Sanchez,West,Consumer,Finance
+C0476,Richardson and Sons,West,Consumer,Technology
+C0477,"Trevino, Pierce and Herman",West,Small Business,Healthcare
+C0478,Walker LLC,Midwest,Consumer,Media
+C0479,"Hughes, Griffin and White",West,Consumer,Media
+C0480,King Group,West,Consumer,Healthcare
+C0481,"Acosta, Thompson and Andrews",Northeast,Corporate,Finance
+C0482,"Brown, Clark and Lin",Northeast,Small Business,Technology
+C0483,Wallace-Molina,Midwest,Consumer,Retail
+C0484,Brooks-Johnson,Northeast,Corporate,Finance
+C0485,Stephens LLC,West,Corporate,Media
+C0486,Chandler LLC,Midwest,Consumer,Technology
+C0487,Olson Ltd,Midwest,Small Business,Education
+C0488,Henderson-Sanchez,South,Consumer,Technology
+C0489,Harrison Group,West,Consumer,Finance
+C0490,Reyes LLC,West,Corporate,Healthcare
+C0491,"Huber, Rivera and Williams",Northeast,Corporate,Education
+C0492,Davis PLC,South,Small Business,Education
+C0493,Waller and Sons,Northeast,Corporate,Education
+C0494,Stevens-Mccall,Midwest,Consumer,Media
+C0495,Bell-Jones,Midwest,Small Business,Technology
+C0496,Smith LLC,South,Consumer,Technology
+C0497,Hall LLC,South,Consumer,Media
+C0498,"Marshall, Miller and Hester",Midwest,Consumer,Education
+C0499,"Lane, Lee and Hatfield",Northeast,Small Business,Media
+C0500,Beasley-Choi,South,Consumer,Technology

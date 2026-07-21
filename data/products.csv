@@ -1,0 +1,51 @@
+Product_ID,Product_Name,Category,Unit_Cost
+P001,Cybersecurity Package,Software,409
+P002,Cybersecurity Package,Software,207
+P003,Network Equipment,Hardware,462
+P004,Business Laptop,Hardware,583
+P005,Cybersecurity Package,Software,272
+P006,Analytics Consulting,Services,992
+P007,Data Storage Solution,Software,457
+P008,Business Laptop,Hardware,297
+P009,Training Services,Services,496
+P010,Business Laptop,Hardware,351
+P011,Cloud Analytics Platform,Software,983
+P012,Office Equipment,Hardware,892
+P013,Office Equipment,Hardware,453
+P014,Cybersecurity Package,Software,645
+P015,Business Laptop,Hardware,495
+P016,Analytics Consulting,Services,981
+P017,Data Storage Solution,Software,928
+P018,Cloud Analytics Platform,Software,101
+P019,Analytics Consulting,Services,292
+P020,Cybersecurity Package,Software,771
+P021,Analytics Consulting,Services,831
+P022,Business Laptop,Hardware,386
+P023,Cybersecurity Package,Software,745
+P024,Analytics Consulting,Services,155
+P025,Cloud Analytics Platform,Software,411
+P026,Training Services,Services,474
+P027,Analytics Consulting,Services,835
+P028,Office Equipment,Hardware,818
+P029,Cybersecurity Package,Software,719
+P030,Cloud Analytics Platform,Software,605
+P031,Training Services,Services,918
+P032,Analytics Consulting,Services,411
+P033,Training Services,Services,705
+P034,Training Services,Services,250
+P035,Analytics Consulting,Services,265
+P036,Training Services,Services,663
+P037,Network Equipment,Hardware,111
+P038,Cybersecurity Package,Software,409
+P039,Office Equipment,Hardware,207
+P040,Training Services,Services,600
+P041,Cybersecurity Package,Software,905
+P042,Business Laptop,Hardware,992
+P043,Analytics Consulting,Services,331
+P044,Analytics Consulting,Services,723
+P045,Business Laptop,Hardware,759
+P046,Training Services,Services,381
+P047,Cloud Analytics Platform,Software,144
+P048,Cloud Analytics Platform,Software,986
+P049,Training Services,Services,891
+P050,Office Equipment,Hardware,986
